@@ -16,7 +16,7 @@ public class TestController {
     @RequestMapping("test")
     public String test(){
 
-        String url = "http://localhost:8080/setCookie";
+        String url = "http://localhost:8080/setCookie4444444444";
         ResponseEntity<String> forEntity = restTemplate.getForEntity(url, String.class);
         String body = forEntity.getBody();
 
