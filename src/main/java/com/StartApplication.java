@@ -9,7 +9,7 @@ import java.math.BigDecimal;
 public class StartApplication {
 
     public static void main(String[] args) {
-
+        System.out.println("2222");
         System.out.println("mmm");
         System.out.println("dec");
         // Spring应用启动起来
