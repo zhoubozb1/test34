@@ -10,7 +10,7 @@ public class StartApplication {
 
     public static void main(String[] args) {
 
-
+        System.out.println("dec");
         // Spring应用启动起来
         SpringApplication.run(StartApplication.class,args);
     }
