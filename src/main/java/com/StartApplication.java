@@ -9,6 +9,11 @@ import java.math.BigDecimal;
 public class StartApplication {
 
     public static void main(String[] args) {
+        System.out.println("cccccccccc");
+        System.out.println("ddddddd");
+        System.out.println("4444444444");
+        System.out.println("7777777777777777");
+        System.out.println("6666666666666");
         System.out.println("5555555555");
         System.out.println("44444444444");
         System.out.println("33333333");
